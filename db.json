@@ -1,0 +1,28 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "N-CH POWER MOSFET 620V@5.5A",
+        "PN": "STP6N62K3",
+        "MF": "STMICRO"
+      },
+      "MID": "MID20390",
+      "MD": "The STP6N62K3 is an N-channel Power MOSFET manufactured by STMicroelectronics.\n\nKey Specifications & Features\n\n• Type: N-channel Power MOSFET\n• Technology: MDmesh K3 / SuperMESH3™\n• Drain-Source Voltage (\\(V_{DSS}\\)): 620 V\n• Continuous Drain Current (\\(I_{D}\\)): 5.5 A (at \\(T_{c}\\))\n• On-Resistance (\\(R_{DS(on)}\\)): ~0.95 Ω (typical)\n• Dissipated Power (\\(P_{t}\\)): 90 W (at \\(T_{c}\\))\n• Package Type: Through-hole TO-220\n• Pinout (TO-220): Pin 1 = Gate (G), Pin 2 = Drain (D) / Tab, Pin 3 = Source (S)",
+      "MT": "Electronic Material",
+      "MQNT": 3,
+      "MCost": 263.45,
+      "MQATG": "#CLASS_0",
+      "ML": "120",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20390%2Fmain%2FSTP6N62K3.pdf",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20390/main/IMG_20261109_160607.jpg"
+      ]
+    }
+  ]
+}
